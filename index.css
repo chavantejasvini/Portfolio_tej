@@ -18,3 +18,26 @@
 	font-variant: small-caps;
 	color: darkblue;
 }
+.section-menu
+{
+	position: relative;
+	top: 100px;
+}
+.section-menu div
+{
+	height: 400px;
+	width: 100%;
+	border: 5px solid red;
+}
+.navbar
+{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 3;
+	width: 100%;
+}
+html
+{
+	scroll-behavior: smooth;
+}
