@@ -1,0 +1,20 @@
+{
+	box-sizing: border-box;
+	margin: opx;
+	font-family: sans-serif;
+}
+
+.navmenu
+{
+	font-size: 20px;
+	color: orange;
+	font-weight: bolder;
+
+}
+.logo
+{
+	font-size: 25px;
+	font-family: Elephant;
+	font-variant: small-caps;
+	color: darkblue;
+}
